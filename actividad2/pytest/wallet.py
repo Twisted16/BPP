@@ -15,3 +15,5 @@ class wallet():
     def anadir_saldo(self,cantidad):
         self.saldo += cantidad
 
+ 
+ 
